@@ -1,7 +1,7 @@
 import java.util.Scanner;
 // MATRICULA:1261946795 
 // NOME: DANIEL ANDRADE LOPES
-public class CalculadoraSwitch {
+public class fasskfjs{
 
     public static void main(String[] args) {
 
